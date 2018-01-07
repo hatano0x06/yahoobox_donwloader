@@ -8,7 +8,7 @@ http://lp6m.hatenablog.com/entry/2016/08/12/184232
 ・Chrome
 ・Rubyをつかえる環境
 
-# chromeの用意
+## chromeの用意
 Chromeを開いて
 https://webkaru.net/dev/google-chrome-extension-editthiscookie/
 を入れましょう
@@ -26,7 +26,7 @@ https://github.com/hatano0x06/yahoobox_donwloader/blob/master/yahoo_box.rb#L31-L
 
 :nameを間違えないようにしてください
 
-# sidとかの表示と反映
+## sidとかの表示と反映
 まず、デベロッパーツールを開いてください
 https://1.bp.blogspot.com/-H_5i-FHbGjA/WlIbwtwjx7I/AAAAAAAAElE/hjiAp_UVc78ex07jZmbV1UpVexiooxVuQCLcBGAs/s1600/unnamed2.png
 で、次に
@@ -52,7 +52,7 @@ INITのappidをソースコードのappidに
 https://github.com/hatano0x06/yahoobox_donwloader/blob/master/yahoo_box.rb#L19-L22
 
 
-##　実行
+## 実行
 あとは
 $ ruby ファイル名
 で実行されます
