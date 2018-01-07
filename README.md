@@ -1,1 +1,7 @@
-# yahoobox_donwloader
+yahooボックスの一括ダウンロードスクリプトです
+
+こちらを思いっきり参考にさせていただいています
+http://lp6m.hatenablog.com/entry/2016/08/12/184232
+
+
+で、使い方なのです
